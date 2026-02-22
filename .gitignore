@@ -1,0 +1,13 @@
+# Telegram Session File (NEVER UPLOAD THIS)
+*.session
+*.session-journal
+
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/

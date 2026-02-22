@@ -1,0 +1,4 @@
+requests==2.31.0
+phonenumbers==8.13.27
+Telethon==1.33.1
+playwright==1.41.0
