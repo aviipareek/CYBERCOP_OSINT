@@ -1,5 +1,7 @@
 # 🕵️‍♂️ CyberCop OSINT Framework
 
+<img width="777" height="498" alt="OSINT" src="https://github.com/user-attachments/assets/b83c0c81-42b5-443a-b497-bb22dc360d2b" />
+
 A powerful, multi-threaded Open Source Intelligence (OSINT) tool written in Python. It enumerates a given Indian mobile number across various platforms to extract digital footprints, real names, network locations, and active social profiles.
 
 ## 🔥 Features
